@@ -36,6 +36,6 @@ JOIN payment p ON m.member_no = p.member_no
 WHERE m.member_no = 10000
 ORDER BY p.payment_amt DESC;
 
-
+/* find member start with letter A */
 SELECT * from member
 WHERE lastname like 'A%';

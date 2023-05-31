@@ -9,8 +9,6 @@ Welcome to my GitHub repository showcasing my passion for data analysis and my d
 
 **Excel**: I possess advanced proficiency in Excel, utilizing its powerful features for data manipulation, formulae, pivot tables, and data visualization to provide comprehensive analysis.
 
-**RapidMiner_ML**: I have developed a strong understanding of RapidMiner, a leading data science platform, and its applications in machine learning. I am skilled in performing tasks such as classification, regression, and clustering to deliver accurate predictions and drive informed decision-making.
-
 **SQL**: I have a solid foundation in SQL, enabling me to effectively manage and query databases, retrieve relevant data, and conduct in-depth analysis.
 
 # :ballot_box_with_check: Objective: 
